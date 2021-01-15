@@ -9,7 +9,6 @@ There are explicit rooms for
 - chess
 - backgammon
 - skribble.io
-- go
 - ...
 
-GOTO: synchronisator.github.io/gamingworld
+GOTO: [Gamingworld](https://synchronisator.github.io/gamingworld) 
